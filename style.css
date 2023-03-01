@@ -1,0 +1,55 @@
+body{
+    margin: 0%;
+    font-family: 'Acme', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-family: 'Quantico', sans-serif;
+    font-family: 'Tilt Warp', cursive;
+}
+.half-width{
+    width: 29%;
+    float: left;
+    padding-left: 8%;
+    margin-left: 5%;
+    padding-top: 5%;
+}
+#imgone{
+    width: 500px;
+    padding-right: 60%;
+}
+.p1{color: rgb(85, 56, 2);
+ font-size: 17px;
+
+}
+.name-highlight{
+    color: rgb(246, 151, 34);
+}
+.hireme{
+    color: aliceblue;
+    text-decoration: none;
+    background-image: linear-gradient(180deg,tomato,salmon);
+    padding: 10px;
+    border-radius: 4px;
+}
+h1{
+    font-size: xx-large;
+}
+h2{
+    color: rgb(55, 55, 129);
+}
+#imgtwo{
+    width: 470px;
+}
+.download{
+    color: aliceblue;
+    text-decoration: none;
+    background-image: linear-gradient(180deg,tomato,salmon);
+    padding: 10px;
+    border-radius: 4px;
+}
+#cv{
+    width: 140px;
+    background:linear-gradient(180deg,tomato,salmon);
+    border-radius: 4px;
+    padding: 10px;
+}
