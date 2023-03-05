@@ -1,0 +1,19 @@
+<div class="work-1">
+            <img class="pic-size" src="image/work1.png" alt="">
+            <h2>Gym Website</h2>
+            <p>Lorem Ipsum is simply dummy text of the </p>
+            <p>printing and typesetting industry.</p>
+        </div>
+        <div class="work-1">
+            <img class="pic-size" src="image/work2.png" alt="">
+            <h2>Creative Agency</h2>
+            <p>Lorem Ipsum is simply dummy text of the </p>
+            <p>printing and typesetting industry.</p>
+        </div>
+        <div class="work-1">
+            <img class="pic-size" src="image/work3.png" alt="">
+            <h2>Hard Rock Music</h2>
+            <p>Lorem Ipsum is simply dummy text of the </p>
+            <p>printing and typesetting industry.</p>
+
+        </div>
