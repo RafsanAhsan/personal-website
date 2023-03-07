@@ -80,3 +80,34 @@ h2{
     border-radius: 20px;
     border-left: 0%;
 }
+.text{
+    width: 30%;
+   
+    float: left;
+    padding-top: 16%;
+    padding-left: 33%;
+}
+.text-2{
+    width: 30%;
+   
+    float: left;
+    padding-top: 17%;
+    padding-bottom: 17%;
+    padding-left: 5%
+    text-align: center;
+}
+#chat{
+    text-decoration:none;
+    background-image:linear-gradient(180deg,tomato,salmon);
+    border: 4px;
+    border-radius: 4px;
+    padding: 2px;
+    width: 134px;
+    text-align: center;
+}
+.section-four {
+    background-image: url(image/Group_33094_1.png);
+    background-size: 960px;
+    background-repeat: no-repeat;
+    
+}
