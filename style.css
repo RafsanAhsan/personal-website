@@ -121,3 +121,24 @@ h2{
 .decoration{
     text-decoration: none;
 }
+.last-1{
+    color: #bdb8b8;
+    float: left;
+    text-align: center;
+    width: 100%;
+}
+.last-2{
+    float: left;
+    text-align: center;
+    width: 100%;
+}
+.last-3{
+    float: left;
+    width: 100%;
+    text-align: center;
+    
+}
+.icon{
+    width: 40px;
+    padding: 10px;
+}
