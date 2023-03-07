@@ -98,7 +98,7 @@ h2{
 }
 #chat{
     
-    text-decoration:none;
+    
     background-image:linear-gradient(180deg,tomato,salmon);
     border: 4px;
     border-radius: 4px;
@@ -116,4 +116,8 @@ h2{
 }
 .text-color{
     color: aliceblue;
+    text-decoration: none;
+}
+.decoration{
+    text-decoration: none;
 }
